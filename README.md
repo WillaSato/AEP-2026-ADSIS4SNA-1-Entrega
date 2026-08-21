@@ -1,1 +1,3 @@
-# AEP-2026-ADSIS4SNA-1-Entrega
+Cronograma de Execução
+
+1 - Criação do repositório do Github - William - 20/08/2026
